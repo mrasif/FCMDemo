@@ -22,7 +22,6 @@ import android.widget.Toast;
 
 import com.google.firebase.messaging.FirebaseMessaging;
 
-import javax.security.auth.login.LoginException;
 
 import inagrow.ingreens.com.fcmdemo.utils.AppConfig;
 import inagrow.ingreens.com.fcmdemo.utils.NotificationUtils;
